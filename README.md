@@ -6,7 +6,7 @@
 
  Hi. I'm Inhyeok Yoo. 
  
-I have experience in various NLP project such as social media analysis, information retrieval, data analysis, text mining and sentiment analysis. You can check my C.V. [here](https://inhyeokyoo.github.io/assets/cv.pdf).
+I have experience in various NLP project such as social media analysis, information retrieval, data analysis, text mining and sentiment analysis. You can check my C.V. [here](https://www.notion.so/inhyeokyoo/Inhyeok-Yoo-001ddcd115c4498d84744a2cbb2840fb).
 
 My goal is to be a GURU deep learning engineer in NLP area.
 
