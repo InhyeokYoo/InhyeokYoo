@@ -2,7 +2,8 @@
 
 - 2011 - 2016: Bachelor's degree in industrial engineering, Kangwon National University
 - 2017 - 2019: master's degree in industrial engineering, Inha university
-- 2020 - current: Smart City Institute in VAIV company at Sejong special city in Republic of South Korea.
+- 2020 - 2021: Smart City Institute in VAIV company at Sejong special city in Republic of South Korea.
+- 2021 - Present: AI solution team in Hanwha at Seoul in Republic of South Korea.
 
  Hi. I'm Inhyeok Yoo. 
  
